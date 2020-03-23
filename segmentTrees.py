@@ -72,7 +72,7 @@ class buildSegmentTree:
         self._update(ind, val, mid + 1, e, 2*treeIndex + 1)
         return
 
-    # funtion for Range updates:
+    # function for Range updates (Lazy propagation):
     def updateRange(self, start, end, val):
         return self._updateRange(start, end, self.start, self.end, 1, val)
 
