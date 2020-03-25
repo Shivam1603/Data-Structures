@@ -1,5 +1,5 @@
 '''Author: Shivam Kumar Singh'''
-''' Segment Tree Implementation using Python List '''
+''' Range Sum Segment Tree Implementation using Python List '''
 class buildSegmentTree:
     ''' Constructor to create a segment tree with the passed array '''
     def __init__(self, arr):
