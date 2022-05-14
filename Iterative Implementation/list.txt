@@ -1,0 +1,3 @@
+Segment Tree - Range Sum
+Segment Tree - Range Max/Min
+Segment Tree - Lazy Propogation
