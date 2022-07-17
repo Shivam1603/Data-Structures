@@ -8,6 +8,7 @@ We can perform the following queries in logN complexity:
   - largest element in set smaller than/equal to X
 
 Sample Usage: https://atcoder.jp/contests/abc260/submissions/33328829
+Avoid using this DS if the problem is only demanding to perform the four queries above without addition/removal of elements in the set. In this case, a simple binary search would suffice.
 '''
 
 import math
