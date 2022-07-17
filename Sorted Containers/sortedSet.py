@@ -6,6 +6,8 @@ We can perform the following queries in logN complexity:
   - smallest element in set greater than/equal to X
   - largest element in set smaller than X
   - largest element in set smaller than/equal to X
+
+Sample Usage: https://atcoder.jp/contests/abc260/submissions/33328829
 '''
 
 import math
