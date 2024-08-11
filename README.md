@@ -1,2 +1,2 @@
 # Data-Structures
-These data structures are implemented in Python 3.6
+This repository aims to create a container of data structures implemented in Python which is quickly accessible during a contest.
